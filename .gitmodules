@@ -1,0 +1,4 @@
+[submodule ".codex/ruleForAi"]
+	path = .codex/ruleForAi
+	url = https://github.com/dysdyd/ruleForAi.git
+	branch = main
